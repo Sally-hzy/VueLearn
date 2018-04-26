@@ -2,6 +2,18 @@
 
 > A Vue.js project
 
+##   现阶段关于Vue以及相关组件的学习实例总结
+  #      项目用到框架或插件
+  
+         --Vue
+         
+         --Vue-router
+         
+         --Vuex
+        
+         --echatrs
+         
+        --element ui
 ## Build Setup
 
 ``` bash
