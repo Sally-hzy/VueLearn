@@ -5,6 +5,7 @@ import App from './App'
 import router from './router'
 import echarts  from 'echarts'
 import Element from 'element-ui'
+import 'element-ui/lib/theme-chalk/index.css'
 
 //通过原型就可以在全局使用 let myCharts=this.$echarts.init(document.getElementById('myChart'))
 Vue.prototype.$echarts = echarts

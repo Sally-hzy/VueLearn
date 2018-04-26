@@ -24,7 +24,7 @@
 			}
 		},
 		mounted(){
-			console.log('This Pie message :the author is '+this.author+' the cerate time is '+this.create_time)
+			console.log('This Pie messange :the author is '+this.author+' the cerate time is '+this.create_time)
 			this.$nextTick( function(){
 				this.drowPie('myPieTwo');
 			})
